@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "icon": "inbox",
+    "title": "Inbox"
+  },
+  {
+    "id": 1,
+    "icon": "paper-plane",
+    "title": "Sent"
+  },
+  {
+    "id": 2,
+    "icon": "exclamation-triangle",
+    "title": "Junk"
+  },
+  {
+    "id": 3,
+    "icon": "trash",
+    "title": "Trash"
+  }
+]
